@@ -1,0 +1,164 @@
+{
+	"lateUseDate": [{
+			"id": 1,
+			"label": "最近使用",
+			"title": "最近使用",
+			"contentList": [{
+					"id": 100,
+					"title": "city_weather_forecast",
+					"label": "city_weather_forecast"
+				},
+				{
+					"id": 99,
+					"title": "微信数据分析",
+					"label": "微信数据分析"
+				},
+				{
+					"id": 98,
+					"title": "全站注册登录及流量情况",
+					"label": "全站注册登录及流量情况"
+				},
+				{
+					"id": 97,
+					"title": "广告投放",
+					"label": "广告投放"
+				},
+				{
+					"id": 96,
+					"title": "销售业绩总表",
+					"label": "销售业绩总表"
+				},
+				{
+					"id": 95,
+					"title": "网站订单数据",
+					"label": "网站订单数据"
+				}],
+			"children": [{
+					"id": 100,
+					"label": "city_weather_forecast"
+				},
+				{
+					"id": 99,
+					"label": "微信数据分析"
+				},
+				{
+					"id": 98,
+					"label": "全站注册登录及流量情况"
+				},
+				{
+					"id": 97,
+					"label": "广告投放"
+				},
+				{
+					"id": 96,
+					"label": "销售业绩总表"
+				},
+				{
+					"id": 95,
+					"label": "网站订单数据"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"title": "天气数据",
+			"label": "天气数据",
+			"contentList": [{
+					"id": 94,
+					"title": "天气预报（中国城市）",
+					"label": "天气预报（中国城市）"
+				},
+				{
+					"id": 93,
+					"title": "天气历史（中国城市）",
+					"label": "天气历史（中国城市）"
+				},
+				{
+					"id": 92,
+					"title": "天气预报（中国区县））",
+					"label": "天气预报（中国区县）"
+				},
+				{
+					"id": 91,
+					"title": "天气历史（中国区县）",
+					"label": "天气历史（中国区县）"
+				}],
+			"children": [{
+					"id": 94,
+					"label": "天气预报（中国城市）"
+				},
+				{
+					"id": 93,
+					"label": "天气历史（中国城市）"
+				},
+				{
+					"id": 92,
+					"label": "天气预报（中国区县）"
+				},
+				{
+					"id": 91,
+					"label": "天气历史（中国区县）"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"title": "网站订单分析",
+			"label": "网站订单分析"
+		},
+		{
+			"id": 4,
+			"title": "销售业绩报表",
+			"label": "销售业绩报表"
+		},
+		{
+			"id": 5,
+			"title": "广告投放效果",
+			"label": "广告投放效果"
+		},
+		{
+			"id": 6,
+			"title": "网站用户分析",
+			"label": "网站用户分析"
+		},
+		{
+			"id": 7,
+			"title": "微信运营分析",
+			"label": "微信运营分析"
+		}
+	],
+	"asideSubmenuDate": [{
+
+			"title": "仪表盘示例",
+			"contentList": [
+				{
+					"selected": false,
+					"title": "销售业绩报表"
+				},
+				{
+					"selected": false,
+					"title": "广告投放效果"
+				},
+				{
+					"selected": false,
+					"title": "网站用户分析"
+				},
+				{
+					"selected": false,
+					"title": "微信运营分析"
+				}
+			]
+		},
+		{
+			"title": "demo",
+			"contentList": [
+				{
+					"selected": false,
+					"title": "销售业绩报表"
+				}
+			]
+		}
+
+	]
+
+}

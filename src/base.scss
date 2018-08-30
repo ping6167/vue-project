@@ -1,0 +1,14 @@
+//小圆点
+@mixin dots() {
+	.app-container-dots {
+		height: 15px;
+		li {
+			height: 5px;
+			font-size: 10px;
+			&:before {
+				content: "·";
+            	color: #ACB3B7;
+			}
+		}
+	}
+}
